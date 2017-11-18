@@ -1,5 +1,5 @@
-# <repo name>
-<repo short description>
+# SJ.BlankSlate
+Visual Studio starter repo for my own projects
 
 # Owner
 The owner and initiator of this project is Jeff Jones aka twitter.com/@securityjones and blogger on securityjones.com. Happy to engage and discuss the project, so feel free to reach out.
